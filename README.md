@@ -21,4 +21,4 @@ Up - Quick drops
 Z and X - Rotate
 
 ### Watch Demo
-[![Watch the demo](https://bspafford.github.io/tetris/media/tetris.gif)
+![Tetris Demo](https://bspafford.github.io/tetris/media/tetris.gif)
