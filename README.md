@@ -18,4 +18,4 @@ This Tetris clone was my first project using the Windows API and my first experi
 - Z and X - Rotate
 
 ### Watch Demo
-![Tetris Demo](https://bspafford.github.io/tetris/media/tetris.gif)
+![Tetris Demo](assets/tetris.gif)
